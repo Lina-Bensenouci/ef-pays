@@ -8,6 +8,15 @@ h2{
 
 .country-button{
   background-color: rgba(255, 255, 255, 0.215);
+  margin-right: 1%;
+  padding: 0.5%;
+  border-radius: 15%;
+  transform: scale(1);
+  transition: 0.5s;
+}
+
+.country-button:hover{
+  transform: scale(1.05);
 }
 
 .country-menu{
