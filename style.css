@@ -1,3 +1,23 @@
+/*#rest-pays{
+height: 300px;
+}*/
 h2 {
   font-size: larger;
+}
+
+.country-button {
+  background-color: rgba(255, 255, 255, 0.215);
+}
+
+.country-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 5%;
+}
+
+.sec-pays {
+  min-height: 600px;
+  background-color: rgb(25, 52, 126);
 }/*# sourceMappingURL=style.css.map */

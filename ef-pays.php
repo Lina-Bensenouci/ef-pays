@@ -72,3 +72,4 @@ function creation_pays() {
 
 add_shortcode('em_pays', 'creation_pays');
 ?>
+ 
